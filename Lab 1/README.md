@@ -18,3 +18,5 @@
 - Crear un script para el personaje que lo desplace por la pantalla, sin aplicar simulación física.
 - Agregar un campo público que permita graduar la velocidad del movimiento desde el inspector de objetos.
 - Estar a la escucha de si el usuario ha utilizado los ejes virtuales. Elegir cuáles se va a permitir utilizar: flechas, awsd.
+- El recorrido virtual realizado con los contraladores (teclas) debe ser proporcional a lo que se desplaza el jugador:Elegir otros ejes virtuales para el giro y girar al jugador sobre el eje OY (up) 
+![Alt Text](https://github.com/alu0101325583/Interfaces-Inteligentes/blob/main/Lab%201/Gifs/P1-Gif8.gif)
