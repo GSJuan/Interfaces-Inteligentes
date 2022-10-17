@@ -19,8 +19,8 @@
 - Agregar un campo público que permita graduar la velocidad del movimiento desde el inspector de objetos.
 - Estar a la escucha de si el usuario ha utilizado los ejes virtuales. Elegir cuáles se va a permitir utilizar: flechas, awsd.
 - El recorrido virtual realizado con los contraladores (teclas) debe ser proporcional a lo que se desplaza el jugador:Elegir otros ejes virtuales para el giro y girar al jugador sobre el eje OY (up) 
-+ Versión 1: implementada usando un eje virtual creado usando el input manager para girar sobre el eje Y usando las teclas Q y E del teclado
-![Alt Text](https://github.com/alu0101325583/Interfaces-Inteligentes/blob/main/Lab%201/Gifs/P1-Gif8.1.gif)
-+ Versión 2: implementada usando eje virtual Mouse X y Mouse Y del raton para hacer giros sobre eje X y eje Y
-![Alt Text](https://github.com/alu0101325583/Interfaces-Inteligentes/blob/main/Lab%201/Gifs/P1-Gif8.2.gif)
+  + Versión 1: implementada usando un eje virtual creado usando el input manager para girar sobre el eje Y usando las teclas Q y E del teclado
+  ![Alt Text](https://github.com/alu0101325583/Interfaces-Inteligentes/blob/main/Lab%201/Gifs/P1-Gif8.1.gif)
+  + Versión 2: implementada usando eje virtual Mouse X y Mouse Y del raton para hacer giros sobre eje X y eje Y
+  ![Alt Text](https://github.com/alu0101325583/Interfaces-Inteligentes/blob/main/Lab%201/Gifs/P1-Gif8.2.gif)
 
