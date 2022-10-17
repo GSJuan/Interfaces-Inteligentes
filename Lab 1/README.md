@@ -26,8 +26,12 @@
 
 3. Sobre la escena que has trabajado programa los scripts necesarios para las siguientes acciones:
 - Se deben incluir varios cilindros sobre la escena. Cada vez que el objeto jugador colisione con alguno de ellos, deben aumentar su tamaño y el jugador aumentar puntuación.
+![Alt Text](https://github.com/alu0101325583/Interfaces-Inteligentes/blob/main/Lab%201/Gifs/P1-Gif9.gif)
 - Agregar cilindros de tipo A, en los que además, si el jugador pulsa la barra espaciadora lo mueve hacia fuera de él. 
+![Alt Text](https://github.com/alu0101325583/Interfaces-Inteligentes/blob/main/Lab%201/Gifs/P1-Gif10.gif)
 - Se deben incluir cilindros que se alejen del jugador cuando esté próximo.
+![Alt Text](https://github.com/alu0101325583/Interfaces-Inteligentes/blob/main/Lab%201/Gifs/P1-Gif11.gif)
 - Ubicar un tercer objeto que sea capaz de detectar colisiones y que se mueva con las teclas: I, L, J, M
 - Debes ubicar cubos que que aumentan de tamaño cuando se le acerca una esfera y que disminuye cuando se le acerca el jugador.
+![Alt Text](https://github.com/alu0101325583/Interfaces-Inteligentes/blob/main/Lab%201/Gifs/P1-Gif12.gif)
 
